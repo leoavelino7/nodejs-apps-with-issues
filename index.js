@@ -52,3 +52,9 @@ createServer(
     .once('listening', function onListening() {
         console.log('Server started on http://localhost:3000');
     });
+
+/**
+ * https://www.npmjs.com/package/autocannon
+ * https://discoveryjs.github.io/cpupro/
+ * https://www.youtube.com/watch?v=3F1uBQVWNfE&list=WL&index=7
+ */
